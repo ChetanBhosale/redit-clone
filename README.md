@@ -33,7 +33,7 @@
 - CRUD posts & comments
 - Add posts in the form of text, link or image
 - Upvote/downvote posts & comments
-- Dynamic URLs for users (u/Aman) & subreddits (r/reactjs)
+- Dynamic URLs for users (u/Chetan) & subreddits (r/reactjs)
 - Sorting of posts on basis of algorithms like hot, top, controversial etc.
 - Full database search feature
 - Pagination of posts
