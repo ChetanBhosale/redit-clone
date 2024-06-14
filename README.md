@@ -50,14 +50,13 @@
 #### Pictures from both Mobile and Dekstop View
 
 ![Desktop-home](https://github.com/ChetanBhosale/redit-clone/blob/main/screenshots/1.png)
-![Desktop-2](https://github.com/ChetanBhosale/redit-clone/blob/main/screenshots/1.png)
-![Desktop-3](https://github.com/ChetanBhosale/redit-clone/blob/main/screenshots/1.png)
-
-![Mobile-home](https://github.com/ChetanBhosale/redit-clone/blob/main/screenshots/1.png)
-![Mobile-2](https://github.com/ChetanBhosale/redit-clone/blob/main/screenshots/1.png)
-![Mobile-3](https://github.com/ChetanBhosale/redit-clone/blob/main/screenshots/1.png)
-![Mobile-4](https://github.com/ChetanBhosale/redit-clone/blob/main/screenshots/1.png)
-![Mobile-5](https://github.com/ChetanBhosale/redit-clone/blob/main/screenshots/1.png)
+![Desktop-2](https://github.com/ChetanBhosale/redit-clone/blob/main/screenshots/2.png)
+![Desktop-3](https://github.com/ChetanBhosale/redit-clone/blob/main/screenshots/3.png)
+![Mobile-home](https://github.com/ChetanBhosale/redit-clone/blob/main/screenshots/4.png)
+![Mobile-2](https://github.com/ChetanBhosale/redit-clone/blob/main/screenshots/5.png)
+![Mobile-3](https://github.com/ChetanBhosale/redit-clone/blob/main/screenshots/6.png)
+![Mobile-4](https://github.com/ChetanBhosale/redit-clone/blob/main/screenshots/7.png)
+![Mobile-5](https://github.com/ChetanBhosale/redit-clone/blob/main/screenshots/8.png)
 
 ## Usage
 
